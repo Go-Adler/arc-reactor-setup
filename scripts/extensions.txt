@@ -1,0 +1,15 @@
+# Arc Reactor — GNOME extensions installed from extensions.gnome.org
+# Format: <uuid> <TAB> <what it does>
+# install.sh queries the EGO API with THIS machine's shell version, so the
+# correct build is fetched automatically on whatever GNOME release you run.
+burn-my-windows@schneegans.github.com		window open/close animations (Energize B / Incinerate)
+rounded-window-corners@fxgn			rounded corners + shadow on every window
+monitor@astraext.github.io			Astra Monitor — CPU/RAM/net HUD readouts in the top bar
+search-light@icedman.github.com			spotlight-style launcher (Super+Space)
+desktop-cube@schneegans.github.com		3D cube workspace switching
+CoverflowAltTab@palatis.blogspot.com		3D Alt-Tab switcher
+compiz-windows-effect@hermes83.github.com	wobbly windows
+compiz-alike-magic-lamp-effect@hermes83.github.com	genie minimise effect
+just-perfection-desktop@just-perfection		shell tuning (panel size, startup page)
+blur-my-shell@aunetx			blur for panel / dock / overview / terminal
+openbar@neuromorph			OPTIONAL, installed but left DISABLED (see README)

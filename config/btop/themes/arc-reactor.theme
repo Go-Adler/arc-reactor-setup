@@ -1,0 +1,68 @@
+#  Arc Reactor — btop theme
+#  base #0d0b0b · red #e62429 · gold #f0a020 · reactor cyan #55d9f0
+#  Gradients run cool -> hot: cyan (idle) through gold into red (loaded),
+#  so a busy machine literally glows like the reactor.
+
+# Main
+theme[main_bg]="#0d0b0b"
+theme[main_fg]="#ece6e4"
+theme[title]="#f5efed"
+theme[hi_fg]="#e62429"
+theme[selected_bg]="#3a2c2e"
+theme[selected_fg]="#ffffff"
+theme[inactive_fg]="#6b5f5d"
+theme[graph_text]="#a89a98"
+theme[meter_bg]="#241d1d"
+theme[proc_misc]="#f0a020"
+
+# Boxes
+theme[cpu_box]="#e62429"
+theme[mem_box]="#f0a020"
+theme[net_box]="#55d9f0"
+theme[proc_box]="#7bd88f"
+theme[div_line]="#3a2c2e"
+
+# Temperature: cyan -> gold -> red
+theme[temp_start]="#55d9f0"
+theme[temp_mid]="#f0a020"
+theme[temp_end]="#e62429"
+
+# CPU load
+theme[cpu_start]="#55d9f0"
+theme[cpu_mid]="#f0a020"
+theme[cpu_end]="#e62429"
+
+# Free memory (more free = cooler)
+theme[free_start]="#2a5c50"
+theme[free_mid]="#4fa88f"
+theme[free_end]="#7bd88f"
+
+# Cached
+theme[cached_start]="#2a6e80"
+theme[cached_mid]="#4fc9d9"
+theme[cached_end]="#86e8ff"
+
+# Available
+theme[available_start]="#8a5a10"
+theme[available_mid]="#f0a020"
+theme[available_end]="#ffc35c"
+
+# Used
+theme[used_start]="#6b1418"
+theme[used_mid]="#e62429"
+theme[used_end]="#ff4d52"
+
+# Network download
+theme[download_start]="#2a6e80"
+theme[download_mid]="#4fc9d9"
+theme[download_end]="#86e8ff"
+
+# Network upload
+theme[upload_start]="#8a1a4e"
+theme[upload_mid]="#d05a9e"
+theme[upload_end]="#f07ac0"
+
+# Process gradient
+theme[process_start]="#55d9f0"
+theme[process_mid]="#f0a020"
+theme[process_end]="#e62429"

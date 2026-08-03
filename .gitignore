@@ -1,0 +1,5 @@
+# Fonts copied in by install.sh so the wallpaper generator can find them
+assets/fonts/
+__pycache__/
+*.pyc
+*.tar.gz

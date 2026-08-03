@@ -1,0 +1,26 @@
+# Arc Reactor — Warp theme
+# Select it in Warp: Settings → Appearance → Themes → Arc Reactor
+name: 'Arc Reactor'
+accent: '#e62429'
+background: '#0d0b0b'
+foreground: '#ece6e4'
+details: 'darker'
+terminal_colors:
+  normal:
+    black: '#1f1a1a'
+    red: '#e62429'
+    green: '#7bd88f'
+    yellow: '#f0a020'
+    blue: '#55d9f0'
+    magenta: '#d05a9e'
+    cyan: '#4fc9d9'
+    white: '#d8d2d0'
+  bright:
+    black: '#4b3f3f'
+    red: '#ff4d52'
+    green: '#9cf0ae'
+    yellow: '#ffc35c'
+    blue: '#86e8ff'
+    magenta: '#f07ac0'
+    cyan: '#7fe3f0'
+    white: '#f5efed'

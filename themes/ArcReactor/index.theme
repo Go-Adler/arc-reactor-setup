@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=ArcReactor
+Comment=Iron Man HUD — charcoal, armour red, reactor cyan
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Colloid-Red-Dark
+MetacityTheme=Colloid-Red-Dark
+IconTheme=Colloid-Red-Dark
+CursorTheme=Bibata-Modern-Amber
